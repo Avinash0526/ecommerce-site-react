@@ -24,7 +24,7 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  [https://github.com/Avinash0526/ecommerce-site-react]
 ```
 
 Go to the project directory
